@@ -1,3 +1,7 @@
+Use npm start the run the project, and the project should turn out like below. This project allows you the check out information on all characters, episodes and locations appearing in the show "Rick and Morty".
+![image](https://github.com/VincentBui0/RickandMortyAPI/assets/107823093/d38877e9-d38e-47b8-864a-a47ca7193fa5)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
